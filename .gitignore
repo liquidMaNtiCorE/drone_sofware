@@ -1,0 +1,10 @@
+# ROS 2 generált mappák
+build/
+install/
+log/
+
+# Python és IDE fájlok
+__pycache__/
+*.pyc
+.vscode/
+.idea/
